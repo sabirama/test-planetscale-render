@@ -17,5 +17,4 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
-cacert-2023-08-22.pem
 Dockerfile
